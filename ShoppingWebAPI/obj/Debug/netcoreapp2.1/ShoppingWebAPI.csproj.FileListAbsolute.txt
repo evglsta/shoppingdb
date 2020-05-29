@@ -1,0 +1,14 @@
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\bin\Debug\netcoreapp2.1\ShoppingWebAPI.deps.json
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\bin\Debug\netcoreapp2.1\ShoppingWebAPI.runtimeconfig.json
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\bin\Debug\netcoreapp2.1\ShoppingWebAPI.runtimeconfig.dev.json
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\bin\Debug\netcoreapp2.1\ShoppingWebAPI.dll
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\obj\Debug\netcoreapp2.1\ShoppingWebAPI.csprojAssemblyReference.cache
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\obj\Debug\netcoreapp2.1\ShoppingWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\obj\Debug\netcoreapp2.1\ShoppingWebAPI.RazorAssemblyInfo.cache
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\obj\Debug\netcoreapp2.1\ShoppingWebAPI.RazorAssemblyInfo.cs
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\obj\Debug\netcoreapp2.1\ShoppingWebAPI.AssemblyInfoInputs.cache
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\obj\Debug\netcoreapp2.1\ShoppingWebAPI.AssemblyInfo.cs
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\obj\Debug\netcoreapp2.1\ShoppingWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\bin\Debug\netcoreapp2.1\ShoppingWebAPI.pdb
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\obj\Debug\netcoreapp2.1\ShoppingWebAPI.dll
+C:\Users\Maria\source\repos\ShoppingWebAPI\ShoppingWebAPI\obj\Debug\netcoreapp2.1\ShoppingWebAPI.pdb
